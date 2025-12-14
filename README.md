@@ -1,2 +1,0 @@
-# CBDC-Blockchain
-CBDC
